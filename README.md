@@ -16,14 +16,6 @@ Who kang this repo? I don't know.. so kepp Credits to [Saitama](https://t.me/Sai
 ### I don't like to write a detailed documentation later lol
 <details>
   <summary>Steps to deploy on Heroku !! </summary>
- [![AGPLv3 license](https://img.shields.io/badge/license-AGPL–3.0-red.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
-[![CodeFactor](https://www.codefactor.io/repository/github/X-daisy/X-daisy/badge)](https://www.codefactor.io/repository/github/missjuliarobot/missjuliarobot)
-[![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FX-daisy%2FX-daisy.git)](https://github.com/MissJuliaRobot/MissJuliaRobot)
-[![Website Status](https://img.shields.io/website-up-down-green-red/http/missjuliarobot.unaux.com.svg?label=website)](http://missjuliarobot.unaux.com)
-[![Total Size](https://github-size-badge.herokuapp.com/MissJuliaRobot/MissJuliaRobot.svg)](https://github.com/MissJuliaRobot/MissJuliaRobot)
-[![Python 3.8](https://img.shields.io/badge/python->=3.8.3-blue.svg)](https://www.python.org/downloads/release/python-383/)
-[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/MissJuliaRobot/MissJuliaRobot/?ref=repository-badge)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-yellow.svg)](https://github.com/MissJuliaRobot/MissJuliaRobot)
 
  [Deploy](https://www.heroku.com/deploy?template=https://github.com/MR-SHRLCK/X-AIRA.git)
 
