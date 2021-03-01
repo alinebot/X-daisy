@@ -63,7 +63,7 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [𝓧 𝓪𝓲𝓻𝓪](https://telegra.ph/file/2697c9d6ef63d9bbb5ed8.jpg)
+Hello there, I'm [denvil](https://telegra.ph/file/3acc9a7e34f58bf395dbb.jpg)
 
 I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group
 
@@ -79,14 +79,14 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add Aira to your group 💫", url="t.me/daisyXBot?startgroup=true"
+            text="💫 Add Denvil to your group 💫", url="t.me/daisyXBot?startgroup=true"
         ),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [X aira](https://telegra.ph/file/8359843bb6bc461376e3a.jpg)
+*Main Commands :* [denvil](https://telegra.ph/file/8359843bb6bc461376e3a.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
@@ -101,7 +101,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [sher-lock](t.me/mr_srlock)"""
+Support them  [sher-lock](t.me/xDenvil)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -361,7 +361,7 @@ def DaisyX_about_callback(update, context):
     if query.data == "aboutmanu_":
         query.message.edit_text(
             text=f"*😍 Hi again!  The name's {dispatcher.bot.first_name} 😍 \n\nAs  You I'm a next generational group management bot developed by Infinity_Bots.* "
-            f"\n\n 🔥 Join [Aira support](https://t.me/XairaBot) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
+            f"\n\n 🔥 Join [denvil support](https://t.me/Anie_support) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/2697c9d6ef63d9bbb5ed8.jpg)"
             f"\n\n👇 You Can Know More About Me By Clicking The Below Buttons 👇",
